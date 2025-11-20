@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ShortestPathWithUnitDistance {
     public int shortestPath(int[][] edges) {
         int n = edges.length;
